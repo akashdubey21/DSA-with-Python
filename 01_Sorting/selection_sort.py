@@ -11,6 +11,7 @@
 # 5. Swap the minimum element with the element at the current index.
 # 6. Repeat until the list is sorted in ascending order.
 #
+#
 # Descending Order (selection_sort1):
 # 1. Find the length of the list.
 # 2. Iterate through the list from index 0 to n-1.
